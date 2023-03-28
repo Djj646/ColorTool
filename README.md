@@ -1,3 +1,3 @@
 # ColorTool
-基于pyqt开发的图片色块提取工具，for wang x
-此处存放win平台可执行版本，源码存于master分支
+基于`pyqt`开发的图片色块提取工具，for wang x
+此处存放`win`平台可执行版本，源码存于`master`分支
